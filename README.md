@@ -19,7 +19,7 @@ Non-Bundled Plugins: IdeaVIM, org.jetbrains.kotlin, org.intellij.scala, training
 ## How to Run
 
 ```
-* git clone https://github.com/nuwan600/News-Reader
+* git clone https://github.com/nuwan600/News-Reader.git
 
 * open using IntelliJ IDEA
 
